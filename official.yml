@@ -10,3 +10,7 @@
   description: An example data table filled with data fetched via the http resource
   templateRepo: dynaboard/dynaboard-template--data-table
   previewImage: /previews/data_table.jpeg
+- name: Charts
+  description: Chart node usage examples
+  templateRepo: https://github.com/dynaboard/dynaboard-template--charts
+  previewImage: /previews/charts.jpeg
