@@ -1,16 +1,16 @@
 - name: Simple Calculator
   description: A basic calculator
-  templateRepo: dynaboard/dynaboard-template--simple-calculator
+  templateRepo: dynaboard/dynaboard--simple-calculator
   previewImage: /previews/calculator.jpeg
 - name: Hacker News
   description: A Hacker News clone built in Dynaboard
-  templateRepo: dynaboard/dynaboard-template--hacker-news
+  templateRepo: dynaboard/dynaboard--hacker-news
   previewImage: /previews/hackernews.png
 - name: Data Table
   description: An example data table filled with data fetched via the http resource
-  templateRepo: dynaboard/dynaboard-template--data-table
+  templateRepo: dynaboard/dynaboard--data-table
   previewImage: /previews/data_table.jpeg
 - name: Charts
   description: Chart node usage examples
-  templateRepo: https://github.com/dynaboard/dynaboard-template--charts
+  templateRepo: dynaboard/dynaboard--charts
   previewImage: /previews/charts.jpeg
