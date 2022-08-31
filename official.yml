@@ -14,3 +14,7 @@
   description: Chart node usage examples
   templateRepo: dynaboard/dynaboard--charts
   previewImage: /previews/charts.jpeg
+- name: Lightning Demos
+  description: Signup sheet for weekly lightning demo presentations
+  templateRepo: dynaboard/dynaboard--lightning-demos
+  previewImage: /previews/lightning_demos.png
