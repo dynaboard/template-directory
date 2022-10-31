@@ -1,3 +1,7 @@
+- name: Private App Boilerplate
+  description: A getting started point for your next application
+  templateRepo: dynaboard--private-app-boilerplate
+  previewImage: /previews/private_app_boilerplate.jpeg
 - name: Simple Calculator
   description: A basic calculator
   templateRepo: dynaboard/dynaboard--simple-calculator
