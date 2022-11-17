@@ -2,10 +2,10 @@
   description: A getting started point for your next application
   templateRepo: dynaboard/dynaboard--private-app-boilerplate
   previewImage: /previews/private_app_boilerplate.jpeg
-- name: Simple Calculator
-  description: A basic calculator
-  templateRepo: dynaboard/dynaboard--simple-calculator
-  previewImage: /previews/calculator.jpeg
+- name: Lightning Demos
+  description: Signup sheet for weekly lightning demo presentations
+  templateRepo: dynaboard/dynaboard--lightning-demos
+  previewImage: /previews/lightning_demos.png
 - name: Hacker News
   description: A Hacker News clone built in Dynaboard
   templateRepo: dynaboard/dynaboard--hacker-news
@@ -18,7 +18,7 @@
   description: Chart node usage examples
   templateRepo: dynaboard/dynaboard--charts
   previewImage: /previews/charts.jpeg
-- name: Lightning Demos
-  description: Signup sheet for weekly lightning demo presentations
-  templateRepo: dynaboard/dynaboard--lightning-demos
-  previewImage: /previews/lightning_demos.png
+- name: Simple Calculator
+  description: A basic calculator
+  templateRepo: dynaboard/dynaboard--simple-calculator
+  previewImage: /previews/calculator.jpeg
