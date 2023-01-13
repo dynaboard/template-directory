@@ -2,6 +2,10 @@
   description: A getting started point for your next application
   templateRepo: dynaboard/dynaboard--private-app-boilerplate
   previewImage: /previews/private_app_boilerplate.jpeg
+- name: GPT-3 Playground
+  description: A GPT-3 Playground based on the official OpenAI one
+  templateRepo: dynaboard/dynaboard--gpt3-playground
+  previewImage: /previews/gpt3playground.png
 - name: Lightning Demos
   description: Signup sheet for weekly lightning demo presentations
   templateRepo: dynaboard/dynaboard--lightning-demos
