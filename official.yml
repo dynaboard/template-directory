@@ -1,28 +1,24 @@
-- name: Private App Boilerplate
-  description: A getting started point for your next application
-  templateRepo: dynaboard/dynaboard--private-app-boilerplate
-  previewImage: /previews/private_app_boilerplate.jpeg
-- name: Lightning Demos
-  description: Signup sheet for weekly lightning demo presentations
-  templateRepo: dynaboard/dynaboard--lightning-demos
-  previewImage: /previews/lightning_demos.png
-- name: Hacker News
-  description: A Hacker News clone built in Dynaboard
-  templateRepo: dynaboard/dynaboard--hacker-news
-  previewImage: /previews/hackernews.png
 - name: Data Table
   description: An example data table filled with data fetched via the http resource
   templateRepo: dynaboard/dynaboard--data-table
   previewImage: /previews/data_table.jpeg
+- name: Lightning Demos
+  description: Signup sheet for weekly lightning demo presentations
+  templateRepo: dynaboard/dynaboard--lightning-demos
+  previewImage: /previews/lightning_demos.png
 - name: Charts
   description: Chart node usage examples
   templateRepo: dynaboard/dynaboard--charts
   previewImage: /previews/charts.jpeg
+- name: Hacker News
+  description: A Hacker News clone built in Dynaboard
+  templateRepo: dynaboard/dynaboard--hacker-news
+  previewImage: /previews/hackernews.png
 - name: GPT-3 Playground
   description: A GPT-3 Playground based on the official OpenAI one
   templateRepo: dynaboard/dynaboard--gpt3-playground
   previewImage: /previews/gpt3playground.png
-- name: Simple Calculator
-  description: A basic calculator
-  templateRepo: dynaboard/dynaboard--simple-calculator
-  previewImage: /previews/calculator.jpeg
+- name: Private App Boilerplate
+  description: A getting started point for your next application
+  templateRepo: dynaboard/dynaboard--private-app-boilerplate
+  previewImage: /previews/private_app_boilerplate.jpeg
