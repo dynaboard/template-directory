@@ -1,5 +1,5 @@
-- name: Data Table
-  description: An example data table filled with data fetched via the http resource
+- name: User Admin Panel
+  description: Manage user accounts fetched from a SQL database
   templateRepo: dynaboard/dynaboard--data-table
   previewImage: /previews/data_table.jpeg
 - name: Lightning Demos
@@ -18,7 +18,3 @@
   description: A GPT-3 Playground based on the official OpenAI one
   templateRepo: dynaboard/dynaboard--gpt3-playground
   previewImage: /previews/gpt3playground.png
-- name: Private App Boilerplate
-  description: A getting started point for your next application
-  templateRepo: dynaboard/dynaboard--private-app-boilerplate
-  previewImage: /previews/private_app_boilerplate.jpeg
