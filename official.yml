@@ -1,6 +1,6 @@
 - name: User Admin Panel
   description: Manage user accounts fetched from a SQL database
-  templateRepo: dynaboard/dynaboard--data-table
+  templateRepo: dynaboard/dynaboard--user-admin-panel
   previewImage: /previews/data_table.jpeg
 - name: Lightning Demos
   description: Signup sheet for weekly lightning demo presentations
